@@ -1,4 +1,4 @@
-qESP IOT Dev Kit HW info
+qESP WiFi ESP8266 IOT Board HW info
 ------------------------------
 
 ![qESP WiFi ESP8266 IOT Board](https://cdn.shopify.com/s/files/1/0269/3100/3464/products/iotbotscom-qesp-iot-arduino-wifi-temperature_1024x1024@2x.jpg)
